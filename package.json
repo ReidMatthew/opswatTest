@@ -1,0 +1,21 @@
+{
+  "name": "opswat",
+  "version": "1.0.0",
+  "description": "opswat interview question",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "opswat"
+  ],
+  "author": "Matthew Reid",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "form-data": "^4.0.0",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "md5": "^2.3.0"
+  }
+}
